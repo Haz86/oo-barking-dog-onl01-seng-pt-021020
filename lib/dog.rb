@@ -16,7 +16,7 @@ class Dog
   end
 end
 
-fields_for = Dog.new
+fido = Dog.new
 fido.name= "Fido"
 fido.name
 
