@@ -18,5 +18,7 @@ end
 
 fields_for = Dog.new
 fido.name= "Fido"
- 
-lassie.name
+fido.name
+
+fido.bark
+
